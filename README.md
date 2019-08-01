@@ -1,4 +1,4 @@
-# Exploring_the_Bitcoin_Cryptocurrency_Market
+# Exploring the Bitcoin Cryptocurrency Market
 To better understand the growth and impact of Bitcoin and other cryptocurrencies the market
 capitalization is explored of different cryptocurrencies.
 
